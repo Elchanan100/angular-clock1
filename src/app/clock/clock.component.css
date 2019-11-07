@@ -1,0 +1,16 @@
+.mydivHead{
+  display: flex;
+  margin:auto ;
+  justify-content: space-between
+}
+.mydivBody{
+   display: flex;
+  margin:auto ;
+  justify-content: center;
+  align-items: center;
+}
+.mydivButtom{
+   display: flex;
+  margin:auto ;
+  justify-content: space-between
+}
